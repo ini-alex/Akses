@@ -1,1 +1,1 @@
-global.password = "Wahid002";
+global.password = "001100";
