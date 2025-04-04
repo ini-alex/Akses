@@ -1,1 +1,1 @@
-export const password = "Wahid002";
+global.password = "Wahid002";
